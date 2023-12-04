@@ -22,7 +22,7 @@ header{
     transition: 0.5s;
 }
 header.sticky{
-    background: #031321;
+    background: tomato;
     padding: 5px 100px;
 }
 header .logo{
@@ -72,7 +72,7 @@ header ul li a:hover::after{
     height: 100vh;
     width: 100%;
     position: relative;
-    background-image: url('/abu-dhabi-4044175_1920.jpg');
+    background-image: url(./../abu-dhabi-4044175_1920.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
